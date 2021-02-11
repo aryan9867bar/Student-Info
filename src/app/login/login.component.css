@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(71, 151, 125);
+    height: 100%;
+    width: 100%;
+}
+.loginpage
+{
+   text-align: center; 
+}
+.button{
+    text-align: center;
+}
